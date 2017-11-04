@@ -1,0 +1,20 @@
+c:\users\mr.kudaibergenov\documents\visual studio 2013\Projects\Catalizatorauto\Catalizatorauto\bin\Debug\Catalizatorauto.exe.config
+c:\users\mr.kudaibergenov\documents\visual studio 2013\Projects\Catalizatorauto\Catalizatorauto\obj\Debug\Catalizatorauto.csprojResolveAssemblyReference.cache
+c:\users\mr.kudaibergenov\documents\visual studio 2013\Projects\Catalizatorauto\Catalizatorauto\obj\Debug\Catalizatorauto.Form1.resources
+c:\users\mr.kudaibergenov\documents\visual studio 2013\Projects\Catalizatorauto\Catalizatorauto\obj\Debug\Catalizatorauto.Properties.Resources.resources
+c:\users\mr.kudaibergenov\documents\visual studio 2013\Projects\Catalizatorauto\Catalizatorauto\obj\Debug\Catalizatorauto.csproj.GenerateResource.Cache
+c:\users\mr.kudaibergenov\documents\visual studio 2013\Projects\Catalizatorauto\Catalizatorauto\bin\Debug\Catalizatorauto.exe
+c:\users\mr.kudaibergenov\documents\visual studio 2013\Projects\Catalizatorauto\Catalizatorauto\bin\Debug\Catalizatorauto.pdb
+c:\users\mr.kudaibergenov\documents\visual studio 2013\Projects\Catalizatorauto\Catalizatorauto\obj\Debug\Catalizatorauto.exe
+c:\users\mr.kudaibergenov\documents\visual studio 2013\Projects\Catalizatorauto\Catalizatorauto\obj\Debug\Catalizatorauto.pdb
+C:\Users\Mr.Kudaibergenov\Documents\Visual Studio 2013\Projects\Catalizatorauto\Catalizatorauto\obj\Debug\Catalizatorauto.Form2.resources
+D:\proj\visualstudioprojects\Catalizatorauto\Catalizatorauto\bin\Debug\Catalizatorauto.exe.config
+D:\proj\visualstudioprojects\Catalizatorauto\Catalizatorauto\obj\Debug\Catalizatorauto.exe
+D:\proj\visualstudioprojects\Catalizatorauto\Catalizatorauto\obj\Debug\Catalizatorauto.pdb
+D:\proj\visualstudioprojects\Catalizatorauto\Catalizatorauto\bin\Debug\Catalizatorauto.exe
+D:\proj\visualstudioprojects\Catalizatorauto\Catalizatorauto\bin\Debug\Catalizatorauto.pdb
+D:\proj\visualstudioprojects\Catalizatorauto\Catalizatorauto\obj\Debug\Catalizatorauto.csprojResolveAssemblyReference.cache
+D:\proj\visualstudioprojects\Catalizatorauto\Catalizatorauto\obj\Debug\Catalizatorauto.Form1.resources
+D:\proj\visualstudioprojects\Catalizatorauto\Catalizatorauto\obj\Debug\Catalizatorauto.Form2.resources
+D:\proj\visualstudioprojects\Catalizatorauto\Catalizatorauto\obj\Debug\Catalizatorauto.Properties.Resources.resources
+D:\proj\visualstudioprojects\Catalizatorauto\Catalizatorauto\obj\Debug\Catalizatorauto.csproj.GenerateResource.Cache
